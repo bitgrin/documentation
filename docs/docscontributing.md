@@ -8,9 +8,9 @@ I promise its very easy to do, and this guide will guide you through exactly how
 You don't need to download any special programs, and can do it just from the browsers text-editor. All you need is a github account which is free.
 
 ## Editing document pages
-To edit any of the pages here just navigate to [the documentation page on Bitgrins GitHub](https://github.com/bitgrin/documentation/docs)  You will be greeted with a page similiar to this  ![Image not found](/img/PageEdit1.PNG "How to find a document to edit")
+To edit any of the pages here just navigate to [the documentation page on Bitgrins GitHub](https://github.com/bitgrin/documentation/tree/master/docs)  You will be greeted with a page similiar to this  ![Image not found](/img/PageEdit1.PNG "How to find a document to edit")
 
-Click the document you want to edit, for example this page is [docscontributing](https://github.com/bitgrin/documentation/docs/docscontributing.md)
+Click the document you want to edit, for example this page is [docscontributing](https://github.com/bitgrin/documentation/blob/master/docs/docscontributing.md)
 Then simply click the edit icon
 
 ![Image not found](/img/PageEdit2.png "Where is the edit icon?")
@@ -103,7 +103,7 @@ Here's a line for us to start with.
 This line is separated from the one above by two newlines, so it will be a _separate paragraph_.  
 This line is also a separate paragraph, but... This line is only separated by two spaces, so it's a separate line in the _same paragraph_.
 
-⚠️Single line break has to have two spaces between text
+⚠️Single line break has to have two spaces at the end of the first one
 
 
 ### Lists
@@ -363,7 +363,7 @@ Quote break.
 
 To add images simply drag and drop them to your fork of bitgrins documentation.
 To fork the documentation all you need to do is
-[click here](https://github.com/bitgrin/documentation/)
+[click here](https://github.com/bitgrin/documentation)
 And click ```Fork``` in the top right corner, click your account and then ok, it will be done in couple of seconds  
 You can now edit your fork on the fly
 Go the right image folder
@@ -392,7 +392,7 @@ title: this is a title
 In order for it to display properly, this title will be displayed on the top of the document as well as the sidebar label unless specified by ```sidebar_label: Label ```
 
 ### Edit the sidebar to display the new document
-Sidebar javascript file can be found [here](https://github.com/bitgrin/documentation/sidebar.js)
+Sidebar javascript file can be found [here](https://github.com/bitgrin/documentation/blob/master/sidebars.js)
 
 To add a doc to the sidebar, add the FILENAME part from ```FILENAME.md```
 
@@ -436,7 +436,7 @@ Note: Only one layer of nestedness is allowed.
 ```
 
 
-## Commiting the changes
+## Committing the changes
 
 ⚠️ Try to describe what you changes as much as you can, this will help bitgrin devs to review it faster.
 

@@ -6,8 +6,9 @@
  */
 
 module.exports = {
-  title: "Bitgrin",
-  tagline: "All the Bitgrin Docs and Guides in one place",
+  title: "Thank you for contributing❤️",
+  tagline:
+    "You found a hidden index page because you build the docs from the source, you can get to editing it right away!",
   url: "https://docs.bitgrin.dev",
   baseUrl: "/",
   favicon: "img/Logo.png",
@@ -55,10 +56,10 @@ module.exports = {
         {
           title: "Social",
           items: [
-            /// {
-            ///   label: 'Blog',
-            ///   to: 'blog',
-            /// },
+            {
+              label: "Twitter",
+              to: "https://twitter.com/BitGrin"
+            }
           ]
         }
       ],
@@ -66,7 +67,7 @@ module.exports = {
         alt: "Facebook Open Source Logo",
         src: "https://docusaurus.io/img/oss_logo.png"
       },
-      copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc. Built with Docusaurus.`
+      copyright: `Built with Docusaurus.`
     }
   },
   presets: [
