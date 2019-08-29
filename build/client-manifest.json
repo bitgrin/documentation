@@ -1,0 +1,587 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "1": [
+      0,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      38,
+      1
+    ],
+    "2": [
+      0,
+      1,
+      4,
+      5,
+      7,
+      9,
+      2
+    ],
+    "common": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      38,
+      0
+    ],
+    "@site/src\\pages\\index.js": [
+      0,
+      1,
+      3
+    ],
+    "@theme/BlogListPage": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "@theme/BlogPostPage": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "@theme/BlogTagsListPage": [
+      0,
+      1,
+      6
+    ],
+    "@theme/BlogTagsPostsPage": [
+      0,
+      1,
+      2,
+      7
+    ],
+    "@theme/DocLegacyItem": [
+      0,
+      8
+    ],
+    "@theme/DocLegacyPage": [
+      0,
+      1,
+      2,
+      9
+    ],
+    "@site/blog\\2019-05-28-hola.md?truncated=true": [
+      0,
+      10
+    ],
+    "@site/blog\\2019-05-30-welcome.md?truncated=true": [
+      0,
+      11
+    ],
+    "@site/blog\\2019-05-29-hello-world.md": [
+      0,
+      12
+    ],
+    "@site/blog\\2019-05-28-hola.md": [
+      0,
+      13
+    ],
+    "@site/blog\\2019-05-30-welcome.md": [
+      0,
+      14
+    ],
+    "@site/blog\\2019-05-29-hello-world.md?truncated=true": [
+      0,
+      15
+    ],
+    "@site/docs\\doc1.md": [
+      0,
+      16
+    ],
+    "@site/docs\\doc3.md": [
+      0,
+      17
+    ],
+    "@site/docs\\docscontributing.md": [
+      0,
+      18
+    ],
+    "@site/docs\\introduction.md": [
+      0,
+      19
+    ],
+    "@site/docs\\mdx.md": [
+      0,
+      20
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\GitDocumentation2\\.docusaurus\\docusaurus-plugin-content-docs\\docs-b5f.json": [
+      21
+    ],
+    "main": [
+      36,
+      22
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\GitDocumentation2\\.docusaurus\\docusaurus-plugin-content-blog\\blog-c06.json": [
+      23
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\GitDocumentation2\\.docusaurus\\docusaurus-plugin-content-blog\\blog-tags-docusaurus-0e0.json": [
+      24
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\GitDocumentation2\\.docusaurus\\docusaurus-plugin-content-blog\\blog-tags-facebook-038.json": [
+      25
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\GitDocumentation2\\.docusaurus\\docusaurus-plugin-content-blog\\blog-tags-hello-039.json": [
+      26
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\GitDocumentation2\\.docusaurus\\docusaurus-plugin-content-blog\\blog-tags-hola-ea2.json": [
+      27
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\GitDocumentation2\\.docusaurus\\docusaurus-plugin-content-blog\\blog-welcome-001.json": [
+      28
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\GitDocumentation2\\.docusaurus\\docusaurus-plugin-content-docs\\docs-doc-1-6ac.json": [
+      29
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\GitDocumentation2\\.docusaurus\\docusaurus-plugin-content-docs\\docs-doc-3-72e.json": [
+      30
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\GitDocumentation2\\.docusaurus\\docusaurus-plugin-content-docs\\docs-docscontributing-99e.json": [
+      31
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\GitDocumentation2\\.docusaurus\\docusaurus-plugin-content-docs\\docs-introduction-bf7.json": [
+      32
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\GitDocumentation2\\.docusaurus\\docusaurus-plugin-content-docs\\docs-mdx-04f.json": [
+      33
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\GitDocumentation2\\.docusaurus\\docusaurus-plugin-content-blog\\blog-hola-089.json": [
+      34
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\GitDocumentation2\\.docusaurus\\docusaurus-plugin-content-blog\\blog-hello-world-09a.json": [
+      35
+    ],
+    "runtime~main": [
+      22,
+      36
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\GitDocumentation2\\.docusaurus\\docusaurus-plugin-content-blog\\blog-tags-tags-4c2.json": [
+      37
+    ],
+    "@theme/NotFound": [
+      0,
+      1,
+      38
+    ]
+  },
+  "assets": {
+    "0": {
+      "js": [
+        {
+          "file": "common.1eb26d46b0bf64afac3f.js",
+          "hash": "c666606b9a855327cff6",
+          "publicPath": "/common.1eb26d46b0bf64afac3f.js"
+        }
+      ]
+    },
+    "1": {
+      "css": [
+        {
+          "file": "1.7cc1ec06bd83c57cc543.css",
+          "hash": "e1de34a899b751a1b8f4",
+          "publicPath": "/1.7cc1ec06bd83c57cc543.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "1.8ff738e91786269ed824.js",
+          "hash": "e1de34a899b751a1b8f4",
+          "publicPath": "/1.8ff738e91786269ed824.js"
+        }
+      ]
+    },
+    "2": {
+      "css": [
+        {
+          "file": "2.477fab3b8f884775624d.css",
+          "hash": "f5d1168773da1cb93e35",
+          "publicPath": "/2.477fab3b8f884775624d.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "2.ddec3504e361c89e2cf7.js",
+          "hash": "f5d1168773da1cb93e35",
+          "publicPath": "/2.ddec3504e361c89e2cf7.js"
+        }
+      ]
+    },
+    "3": {
+      "css": [
+        {
+          "file": "component---site-src-pages-index-jsece-a18.cb5b2df9606db9547467.css",
+          "hash": "6e864cf56f0b5e6220e0",
+          "publicPath": "/component---site-src-pages-index-jsece-a18.cb5b2df9606db9547467.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "component---site-src-pages-index-jsece-a18.15ebb5c2a690d8b1ef98.js",
+          "hash": "6e864cf56f0b5e6220e0",
+          "publicPath": "/component---site-src-pages-index-jsece-a18.15ebb5c2a690d8b1ef98.js"
+        }
+      ]
+    },
+    "4": {
+      "js": [
+        {
+          "file": "component---theme-blog-list-pagea-6-a-7ba.4a1a3f87e17ff80e4bc0.js",
+          "hash": "fde8a2b7334469edf3cc",
+          "publicPath": "/component---theme-blog-list-pagea-6-a-7ba.4a1a3f87e17ff80e4bc0.js"
+        }
+      ]
+    },
+    "5": {
+      "js": [
+        {
+          "file": "component---theme-blog-post-pageccc-cab.a5b03fae735c6f252b82.js",
+          "hash": "73ac0b43cb002235d119",
+          "publicPath": "/component---theme-blog-post-pageccc-cab.a5b03fae735c6f252b82.js"
+        }
+      ]
+    },
+    "6": {
+      "js": [
+        {
+          "file": "component---theme-blog-tags-list-page-01-a-d0b.9772905d1e7c4b909486.js",
+          "hash": "24ac48be0ad81370bc66",
+          "publicPath": "/component---theme-blog-tags-list-page-01-a-d0b.9772905d1e7c4b909486.js"
+        }
+      ]
+    },
+    "7": {
+      "js": [
+        {
+          "file": "component---theme-blog-tags-posts-page-687-b6c.1b663a9ab7b93fa38a05.js",
+          "hash": "0f16f3435cd780d8a9ed",
+          "publicPath": "/component---theme-blog-tags-posts-page-687-b6c.1b663a9ab7b93fa38a05.js"
+        }
+      ]
+    },
+    "8": {
+      "css": [
+        {
+          "file": "component---theme-doc-legacy-item-031-769.1f1ce10374de019f5d3a.css",
+          "hash": "51fd6dfb37f44add04a8",
+          "publicPath": "/component---theme-doc-legacy-item-031-769.1f1ce10374de019f5d3a.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "component---theme-doc-legacy-item-031-769.bfcd1e3aa44230c3a21c.js",
+          "hash": "51fd6dfb37f44add04a8",
+          "publicPath": "/component---theme-doc-legacy-item-031-769.bfcd1e3aa44230c3a21c.js"
+        }
+      ]
+    },
+    "9": {
+      "css": [
+        {
+          "file": "component---theme-doc-legacy-page-9-e-7-ca5.3c38a2f40a51efdd72a0.css",
+          "hash": "e0162d8dc17d46774945",
+          "publicPath": "/component---theme-doc-legacy-page-9-e-7-ca5.3c38a2f40a51efdd72a0.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "component---theme-doc-legacy-page-9-e-7-ca5.1e643a7ba858d542e86a.js",
+          "hash": "e0162d8dc17d46774945",
+          "publicPath": "/component---theme-doc-legacy-page-9-e-7-ca5.1e643a7ba858d542e86a.js"
+        }
+      ]
+    },
+    "10": {
+      "js": [
+        {
+          "file": "content---blog-273-7f3.ceb654b9b020e20e8a3b.js",
+          "hash": "6755407062c877537c24",
+          "publicPath": "/content---blog-273-7f3.ceb654b9b020e20e8a3b.js"
+        }
+      ]
+    },
+    "11": {
+      "js": [
+        {
+          "file": "content---blog-99-c-ea6.09e574bb7966f447fa15.js",
+          "hash": "08a1f05806ecce1a72f5",
+          "publicPath": "/content---blog-99-c-ea6.09e574bb7966f447fa15.js"
+        }
+      ]
+    },
+    "12": {
+      "js": [
+        {
+          "file": "content---blog-hello-world-843-97f.ae226723d89075c36e0e.js",
+          "hash": "89c345248699cda2ca60",
+          "publicPath": "/content---blog-hello-world-843-97f.ae226723d89075c36e0e.js"
+        }
+      ]
+    },
+    "13": {
+      "js": [
+        {
+          "file": "content---blog-holaaed-b12.8cdf5f31f8de1f8af0a3.js",
+          "hash": "a5ba58da70ac36ffd6a2",
+          "publicPath": "/content---blog-holaaed-b12.8cdf5f31f8de1f8af0a3.js"
+        }
+      ]
+    },
+    "14": {
+      "js": [
+        {
+          "file": "content---blog-welcomea-9-a-cb6.58c740b8c13d93a8047b.js",
+          "hash": "628b9936a3cff92b7def",
+          "publicPath": "/content---blog-welcomea-9-a-cb6.58c740b8c13d93a8047b.js"
+        }
+      ]
+    },
+    "15": {
+      "js": [
+        {
+          "file": "content---blogc-0-a-22b.0784764a111356b668ff.js",
+          "hash": "5f4236d176b9f4aaed6f",
+          "publicPath": "/content---blogc-0-a-22b.0784764a111356b668ff.js"
+        }
+      ]
+    },
+    "16": {
+      "js": [
+        {
+          "file": "content---docs-doc-1736-a06.6e64a5e9bae92837b415.js",
+          "hash": "3e2e51cd8052e7f14b4b",
+          "publicPath": "/content---docs-doc-1736-a06.6e64a5e9bae92837b415.js"
+        }
+      ]
+    },
+    "17": {
+      "js": [
+        {
+          "file": "content---docs-doc-3225-2eb.d3b3b359e65f48e509b1.js",
+          "hash": "75771183befe3ca7980d",
+          "publicPath": "/content---docs-doc-3225-2eb.d3b3b359e65f48e509b1.js"
+        }
+      ]
+    },
+    "18": {
+      "js": [
+        {
+          "file": "content---docs-docscontributing-80-f-0bc.01305d691c5ece4fbd8d.js",
+          "hash": "c3064f744d0f28628fe1",
+          "publicPath": "/content---docs-docscontributing-80-f-0bc.01305d691c5ece4fbd8d.js"
+        }
+      ]
+    },
+    "19": {
+      "js": [
+        {
+          "file": "content---docs-introduction-1-a-3-85f.7df32e1c68f95c0d0fee.js",
+          "hash": "bbbf5517004e75d487c3",
+          "publicPath": "/content---docs-introduction-1-a-3-85f.7df32e1c68f95c0d0fee.js"
+        }
+      ]
+    },
+    "20": {
+      "js": [
+        {
+          "file": "content---docs-mdx-45-a-26c.27b4a7d19a04f3089933.js",
+          "hash": "11f847ac28ae2dbd0105",
+          "publicPath": "/content---docs-mdx-45-a-26c.27b4a7d19a04f3089933.js"
+        }
+      ]
+    },
+    "21": {
+      "js": [
+        {
+          "file": "docsMetadata---docs-3-e-3-a9e.18fc9d3e5df9d36a3551.js",
+          "hash": "de273991861321c7b976",
+          "publicPath": "/docsMetadata---docs-3-e-3-a9e.18fc9d3e5df9d36a3551.js"
+        }
+      ]
+    },
+    "22": {
+      "css": [
+        {
+          "file": "main.52af7a420d18a78583e1.css",
+          "hash": "cc7f77f4065e836fa568",
+          "publicPath": "/main.52af7a420d18a78583e1.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "main.933cd3885d5ea15619d1.js",
+          "hash": "cc7f77f4065e836fa568",
+          "publicPath": "/main.933cd3885d5ea15619d1.js"
+        }
+      ]
+    },
+    "23": {
+      "js": [
+        {
+          "file": "metadata---blog-900-937.dfcbd83525285f692fa3.js",
+          "hash": "ab7d41886b026d663526",
+          "publicPath": "/metadata---blog-900-937.dfcbd83525285f692fa3.js"
+        }
+      ]
+    },
+    "24": {
+      "js": [
+        {
+          "file": "metadata---blog-tags-docusaurus-099-85c.16b94db94bef6b5e1d21.js",
+          "hash": "21f9ce02ba33c4ce681a",
+          "publicPath": "/metadata---blog-tags-docusaurus-099-85c.16b94db94bef6b5e1d21.js"
+        }
+      ]
+    },
+    "25": {
+      "js": [
+        {
+          "file": "metadata---blog-tags-facebookfdf-33b.056aee51a10747b0040e.js",
+          "hash": "2f561719442adbe33399",
+          "publicPath": "/metadata---blog-tags-facebookfdf-33b.056aee51a10747b0040e.js"
+        }
+      ]
+    },
+    "26": {
+      "js": [
+        {
+          "file": "metadata---blog-tags-hellob-85-41a.91ad51c35d492cfdeab4.js",
+          "hash": "d174ecc2fac77fdbed68",
+          "publicPath": "/metadata---blog-tags-hellob-85-41a.91ad51c35d492cfdeab4.js"
+        }
+      ]
+    },
+    "27": {
+      "js": [
+        {
+          "file": "metadata---blog-tags-hola-0-c-5-18b.8b468a6cd6852822b8f4.js",
+          "hash": "61470526be8a5149ac7e",
+          "publicPath": "/metadata---blog-tags-hola-0-c-5-18b.8b468a6cd6852822b8f4.js"
+        }
+      ]
+    },
+    "28": {
+      "js": [
+        {
+          "file": "metadata---blog-welcome-8-f-6-fea.9aa8add345e65111b557.js",
+          "hash": "dd07032795af689a20ce",
+          "publicPath": "/metadata---blog-welcome-8-f-6-fea.9aa8add345e65111b557.js"
+        }
+      ]
+    },
+    "29": {
+      "js": [
+        {
+          "file": "metadata---docs-doc-10-f-1-b28.13a9cd40c79837bcda9f.js",
+          "hash": "fe0a3a5354595bd4024f",
+          "publicPath": "/metadata---docs-doc-10-f-1-b28.13a9cd40c79837bcda9f.js"
+        }
+      ]
+    },
+    "30": {
+      "js": [
+        {
+          "file": "metadata---docs-doc-38-e-3-da8.1c147c35fa97fd878335.js",
+          "hash": "1118ba14f0684521a1ba",
+          "publicPath": "/metadata---docs-doc-38-e-3-da8.1c147c35fa97fd878335.js"
+        }
+      ]
+    },
+    "31": {
+      "js": [
+        {
+          "file": "metadata---docs-docscontributingf-46-c5e.e561c49b2f7f96364bd9.js",
+          "hash": "72ac1c176d193a4727a7",
+          "publicPath": "/metadata---docs-docscontributingf-46-c5e.e561c49b2f7f96364bd9.js"
+        }
+      ]
+    },
+    "32": {
+      "js": [
+        {
+          "file": "metadata---docs-introduction-3-d-7-2aa.a482fb217268eb75c72b.js",
+          "hash": "2603a5025e5f0856cd16",
+          "publicPath": "/metadata---docs-introduction-3-d-7-2aa.a482fb217268eb75c72b.js"
+        }
+      ]
+    },
+    "33": {
+      "js": [
+        {
+          "file": "metadata---docs-mdx-9-ed-451.8dac9a3ccc86488ba2be.js",
+          "hash": "6c8380e10a881beb67bd",
+          "publicPath": "/metadata---docs-mdx-9-ed-451.8dac9a3ccc86488ba2be.js"
+        }
+      ]
+    },
+    "34": {
+      "js": [
+        {
+          "file": "nextItem---blog-hello-worldac-7-0f2.3691c03476bd9235f0ec.js",
+          "hash": "6d564fce8c06fd0509f2",
+          "publicPath": "/nextItem---blog-hello-worldac-7-0f2.3691c03476bd9235f0ec.js"
+        }
+      ]
+    },
+    "35": {
+      "js": [
+        {
+          "file": "nextItem---blog-welcome-879-e30.c7998d01de4599e79e78.js",
+          "hash": "774e291d7cb9148ec686",
+          "publicPath": "/nextItem---blog-welcome-879-e30.c7998d01de4599e79e78.js"
+        }
+      ]
+    },
+    "36": {
+      "js": [
+        {
+          "file": "runtime~main.67373f50e36a7693ca4f.js",
+          "hash": "5764b9e8f1910f11c8f1",
+          "publicPath": "/runtime~main.67373f50e36a7693ca4f.js"
+        }
+      ]
+    },
+    "37": {
+      "js": [
+        {
+          "file": "tags---blog-tags-63-c-e40.048b7b4238885a4db841.js",
+          "hash": "1593a16a490fe10f7b94",
+          "publicPath": "/tags---blog-tags-63-c-e40.048b7b4238885a4db841.js"
+        }
+      ]
+    },
+    "38": {
+      "js": [
+        {
+          "file": "38.cf88a89771583b7cbacb.js",
+          "hash": "334bfdab4379d5de8fae",
+          "publicPath": "/38.cf88a89771583b7cbacb.js"
+        }
+      ]
+    }
+  }
+}

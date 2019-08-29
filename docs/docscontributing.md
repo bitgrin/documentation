@@ -109,8 +109,8 @@ This line is also a separate paragraph, but... This line is only separated by tw
 ### Lists
 ```
 1. First Ordered item
-3. Another item
-6. Ordered lists don't need to be in order to show up in order
+2. Another item
+3. Ordered lists don't need to be in order to show up in order
 
 * unordered list
   - unordered sub list
@@ -193,7 +193,8 @@ Some text to show that the reference links can follow later.
 
 ### Images
 
-⚠️ Images should be hosted on Bitgrins github, you can see the guide how to upload them [here](#adding-images)
+⚠️ Images should be hosted on Bitgrins github, you can see the guide how to upload them [here](#adding-images)  
+⚠️ Images hosted on the Bitgrin github page should be posted with [/img/Imagename.extension]
 ```
 Here's Markdowns-here logo (hover to see the title text):
 
