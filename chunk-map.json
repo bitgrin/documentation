@@ -1,108 +1,108 @@
 {
   "main": [
-    "/documentation/main.52af7a420d18a78583e1.css",
-    "/documentation/main.cf15138180c2f1d04cc2.js"
+    "/main.52af7a420d18a78583e1.css",
+    "/main.6dab07b5d2d35106d2d9.js"
   ],
   "component---site-src-pages-index-jsece-a18": [
-    "/documentation/component---site-src-pages-index-jsece-a18.cb5b2df9606db9547467.css",
-    "/documentation/component---site-src-pages-index-jsece-a18.15ebb5c2a690d8b1ef98.js"
+    "/component---site-src-pages-index-jsece-a18.cb5b2df9606db9547467.css",
+    "/component---site-src-pages-index-jsece-a18.15ebb5c2a690d8b1ef98.js"
   ],
   "component---theme-blog-post-pageccc-cab": [
-    "/documentation/component---theme-blog-post-pageccc-cab.a5b03fae735c6f252b82.js"
+    "/component---theme-blog-post-pageccc-cab.a5b03fae735c6f252b82.js"
   ],
-  "content---documentation-blog-welcomea-9-a-77b": [
-    "/documentation/content---documentation-blog-welcomea-9-a-77b.58c740b8c13d93a8047b.js"
+  "content---blog-welcomea-9-a-cb6": [
+    "/content---blog-welcomea-9-a-cb6.58c740b8c13d93a8047b.js"
   ],
-  "metadata---documentation-blog-welcomef-19-5e8": [
-    "/documentation/metadata---documentation-blog-welcomef-19-5e8.b2d712ab91c1efccc82e.js"
+  "metadata---blog-welcomee-08-49f": [
+    "/metadata---blog-welcomee-08-49f.9aa8add345e65111b557.js"
   ],
-  "nextItem---documentation-blog-welcome-245-660": [
-    "/documentation/nextItem---documentation-blog-welcome-245-660.53ad1e3127d0c6b06f21.js"
+  "nextItem---blog-welcomeefa-e26": [
+    "/nextItem---blog-welcomeefa-e26.c7998d01de4599e79e78.js"
   ],
-  "content---documentation-blog-hello-world-843-17c": [
-    "/documentation/content---documentation-blog-hello-world-843-17c.ae226723d89075c36e0e.js"
+  "content---blog-hello-world-843-97f": [
+    "/content---blog-hello-world-843-97f.ae226723d89075c36e0e.js"
   ],
-  "nextItem---documentation-blog-hello-world-91-a-076": [
-    "/documentation/nextItem---documentation-blog-hello-world-91-a-076.75d7aaaf2d5af526e28c.js"
+  "nextItem---blog-hello-worldc-69-be0": [
+    "/nextItem---blog-hello-worldc-69-be0.3691c03476bd9235f0ec.js"
   ],
-  "content---documentation-blog-holaaed-88e": [
-    "/documentation/content---documentation-blog-holaaed-88e.8cdf5f31f8de1f8af0a3.js"
+  "content---blog-holaaed-b12": [
+    "/content---blog-holaaed-b12.8cdf5f31f8de1f8af0a3.js"
   ],
   "component---theme-blog-list-pagea-6-a-7ba": [
-    "/documentation/component---theme-blog-list-pagea-6-a-7ba.4a1a3f87e17ff80e4bc0.js"
+    "/component---theme-blog-list-pagea-6-a-7ba.4a1a3f87e17ff80e4bc0.js"
   ],
-  "content---documentation-blog-99-c-966": [
-    "/documentation/content---documentation-blog-99-c-966.09e574bb7966f447fa15.js"
+  "content---blog-99-c-ea6": [
+    "/content---blog-99-c-ea6.09e574bb7966f447fa15.js"
   ],
-  "content---documentation-blogc-0-a-78e": [
-    "/documentation/content---documentation-blogc-0-a-78e.0784764a111356b668ff.js"
+  "content---blogc-0-a-22b": [
+    "/content---blogc-0-a-22b.0784764a111356b668ff.js"
   ],
-  "content---documentation-blog-273-8b9": [
-    "/documentation/content---documentation-blog-273-8b9.ceb654b9b020e20e8a3b.js"
+  "content---blog-273-7f3": [
+    "/content---blog-273-7f3.ceb654b9b020e20e8a3b.js"
   ],
-  "metadata---documentation-blogd-12-5f3": [
-    "/documentation/metadata---documentation-blogd-12-5f3.3acbc122835c4a58625e.js"
+  "metadata---blog-220-496": [
+    "/metadata---blog-220-496.dfcbd83525285f692fa3.js"
   ],
   "component---theme-doc-legacy-page-9-e-7-ca5": [
-    "/documentation/component---theme-doc-legacy-page-9-e-7-ca5.3c38a2f40a51efdd72a0.css",
-    "/documentation/component---theme-doc-legacy-page-9-e-7-ca5.1e643a7ba858d542e86a.js"
+    "/component---theme-doc-legacy-page-9-e-7-ca5.3c38a2f40a51efdd72a0.css",
+    "/component---theme-doc-legacy-page-9-e-7-ca5.1e643a7ba858d542e86a.js"
   ],
-  "docsMetadata---documentation-docse-85-4ce": [
-    "/documentation/docsMetadata---documentation-docse-85-4ce.f92b010317a014a0ac03.js"
+  "docsMetadata---docsadf-227": [
+    "/docsMetadata---docsadf-227.b6a75177956888dc3649.js"
   ],
   "component---theme-doc-legacy-item-031-769": [
-    "/documentation/component---theme-doc-legacy-item-031-769.1f1ce10374de019f5d3a.css",
-    "/documentation/component---theme-doc-legacy-item-031-769.bfcd1e3aa44230c3a21c.js"
+    "/component---theme-doc-legacy-item-031-769.1f1ce10374de019f5d3a.css",
+    "/component---theme-doc-legacy-item-031-769.bfcd1e3aa44230c3a21c.js"
   ],
-  "content---documentation-docs-doc-1736-5f9": [
-    "/documentation/content---documentation-docs-doc-1736-5f9.c464920d3ef5390640d5.js"
+  "content---docs-doc-3225-2eb": [
+    "/content---docs-doc-3225-2eb.d3b3b359e65f48e509b1.js"
   ],
-  "metadata---documentation-docs-doc-1055-306": [
-    "/documentation/metadata---documentation-docs-doc-1055-306.ddd3a87f84e0650d9219.js"
+  "metadata---docs-doc-3124-fa5": [
+    "/metadata---docs-doc-3124-fa5.1c147c35fa97fd878335.js"
   ],
-  "content---documentation-docs-doc-3225-a10": [
-    "/documentation/content---documentation-docs-doc-3225-a10.d5282f53ed9fd6831f4a.js"
+  "content---docs-doc-1736-a06": [
+    "/content---docs-doc-1736-a06.6e64a5e9bae92837b415.js"
   ],
-  "metadata---documentation-docs-doc-3-aae-c02": [
-    "/documentation/metadata---documentation-docs-doc-3-aae-c02.c1ce6b834952398250e3.js"
+  "metadata---docs-doc-17-f-9-f23": [
+    "/metadata---docs-doc-17-f-9-f23.13a9cd40c79837bcda9f.js"
   ],
-  "content---documentation-docs-mdx-45-a-be6": [
-    "/documentation/content---documentation-docs-mdx-45-a-be6.27b4a7d19a04f3089933.js"
+  "content---docs-introduction-1-a-3-85f": [
+    "/content---docs-introduction-1-a-3-85f.b0e56acf43a0bce31ff7.js"
   ],
-  "metadata---documentation-docs-mdx-15-e-e61": [
-    "/documentation/metadata---documentation-docs-mdx-15-e-e61.2fe1020ea2fcf3c966c7.js"
+  "metadata---docs-introductionbc-2-389": [
+    "/metadata---docs-introductionbc-2-389.91c118ff1f5440abab64.js"
   ],
-  "content---documentation-docs-introduction-1-a-3-e29": [
-    "/documentation/content---documentation-docs-introduction-1-a-3-e29.7df32e1c68f95c0d0fee.js"
+  "content---docs-mdx-45-a-26c": [
+    "/content---docs-mdx-45-a-26c.9fb4fe456f2fce49d778.js"
   ],
-  "metadata---documentation-docs-introductionbc-5-2e1": [
-    "/documentation/metadata---documentation-docs-introductionbc-5-2e1.ebd0fc59227ca1803423.js"
+  "metadata---docs-mdx-253-242": [
+    "/metadata---docs-mdx-253-242.3935a4d175eee0abdf5e.js"
   ],
-  "content---documentation-docs-docscontributing-80-f-10b": [
-    "/documentation/content---documentation-docs-docscontributing-80-f-10b.cd1b1a7c198f2434df58.js"
+  "content---docs-docscontributing-80-f-0bc": [
+    "/content---docs-docscontributing-80-f-0bc.cd1b1a7c198f2434df58.js"
   ],
-  "metadata---documentation-docs-docscontributing-4-e-8-982": [
-    "/documentation/metadata---documentation-docs-docscontributing-4-e-8-982.a21b5fce4e5a50af6cbb.js"
+  "metadata---docs-docscontributing-8-b-7-083": [
+    "/metadata---docs-docscontributing-8-b-7-083.e561c49b2f7f96364bd9.js"
   ],
   "component---theme-blog-tags-posts-page-687-b6c": [
-    "/documentation/component---theme-blog-tags-posts-page-687-b6c.1b663a9ab7b93fa38a05.js"
+    "/component---theme-blog-tags-posts-page-687-b6c.1b663a9ab7b93fa38a05.js"
   ],
-  "metadata---documentation-blog-tags-facebook-102-3a2": [
-    "/documentation/metadata---documentation-blog-tags-facebook-102-3a2.667dc1b11a22ca27f32c.js"
+  "metadata---blog-tags-facebookb-02-34e": [
+    "/metadata---blog-tags-facebookb-02-34e.21c64b86d65280bdd0dc.js"
   ],
-  "metadata---documentation-blog-tags-helloce-0-d9c": [
-    "/documentation/metadata---documentation-blog-tags-helloce-0-d9c.12fd4a10113a5400ca00.js"
+  "metadata---blog-tags-helloc-74-d39": [
+    "/metadata---blog-tags-helloc-74-d39.d59493a0a4fa132cdabd.js"
   ],
-  "metadata---documentation-blog-tags-docusaurus-39-f-8be": [
-    "/documentation/metadata---documentation-blog-tags-docusaurus-39-f-8be.ad94a7e15ddbbe75aa23.js"
+  "metadata---blog-tags-hola-281-945": [
+    "/metadata---blog-tags-hola-281-945.053de46217b9061db14c.js"
   ],
-  "metadata---documentation-blog-tags-hola-9-f-2-039": [
-    "/documentation/metadata---documentation-blog-tags-hola-9-f-2-039.e417610dbda4019aeee7.js"
+  "metadata---blog-tags-docusaurus-820-ad1": [
+    "/metadata---blog-tags-docusaurus-820-ad1.349f8d8e4f8c8f23a66e.js"
   ],
   "component---theme-blog-tags-list-page-01-a-d0b": [
-    "/documentation/component---theme-blog-tags-list-page-01-a-d0b.9772905d1e7c4b909486.js"
+    "/component---theme-blog-tags-list-page-01-a-d0b.9772905d1e7c4b909486.js"
   ],
-  "tags---documentation-blog-tags-289-db6": [
-    "/documentation/tags---documentation-blog-tags-289-db6.1b18066af64ffef10250.js"
+  "tags---blog-tags-1-aa-e27": [
+    "/tags---blog-tags-1-aa-e27.048b7b4238885a4db841.js"
   ]
 }
