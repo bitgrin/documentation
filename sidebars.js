@@ -7,7 +7,6 @@
 
 module.exports = {
   docs: {
-    Documentation: ["introduction", "docscontributing"],
-    Features: ["mdx"]
+    Documentation: ["introduction", "docscontributing"]
   }
 };

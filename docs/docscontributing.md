@@ -215,8 +215,29 @@ Reference-style: ![alt text][logo]
 
 ### Code
 
-⚠️ Code blocks need to be enclosed in ```LANGUAGE (new space) CODE (new space) ``` otherwise they will appear inline
+⚠️ Code blocks need to be enclosed in 
+<!-- language: lang-none -->
 
+    ```Language 
+    CODE
+    ```
+
+<!-- Language: lang-none -->
+
+    ```javascript
+    var s = "JavaScript syntax highlighting";
+    alert(s);
+    ```
+
+    ```python
+    s = "Python syntax highlighting"
+    print s
+    ```
+
+    ```
+    No language indicated, so no syntax highlighting. But let's throw in a
+    <b>tag</b>.
+    ```
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
@@ -346,7 +367,7 @@ To fork the documentation all you need to do is
 And click ```Fork``` in the top right corner, click your account and then ok, it will be done in couple of seconds  
 You can now edit your fork on the fly
 Go the right image folder
-```static``
+```static```
 then
 ```img```
 And then simply drag and drop!
@@ -368,7 +389,7 @@ File name needs to have a title created like this
 title: this is a title
 ---
 ```
-In order for it to display properly, this title will be displayed on the top of the document as well as the sidebar label
+In order for it to display properly, this title will be displayed on the top of the document as well as the sidebar label unless specified by ```sidebar_label: Label ```
 
 ### Edit the sidebar to display the new document
 Sidebar javascript file can be found [here](https://github.com/bitgrin/documentation/sidebar.js)
