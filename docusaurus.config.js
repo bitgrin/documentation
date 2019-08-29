@@ -6,80 +6,80 @@
  */
 
 module.exports = {
-  title: 'Bitgrin',
-  tagline: 'All the Bitgrin Docs and Guides in one place',
-  url: 'https://docs.bitgrin.dev',
-  baseUrl: '/',
-  favicon: 'img/Logo.png',
-  organizationName: 'Bitgrin', // Usually your GitHub org/user name.
-  projectName: 'Bitgrin', // Usually your repo name.
-  themes: ['@docusaurus/theme-live-codeblock'],
+  title: "Bitgrin",
+  tagline: "All the Bitgrin Docs and Guides in one place",
+  url: "https://docs.bitgrin.dev",
+  baseUrl: "/",
+  favicon: "img/Logo.png",
+  organizationName: "Bitgrin", // Usually your GitHub org/user name.
+  projectName: "Bitgrin", // Usually your repo name.
+  themes: ["@docusaurus/theme-live-codeblock"],
   themeConfig: {
     navbar: {
-      title: 'Bitgrin Documentation',
+      title: "Bitgrin Documentation",
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/Logo.png',
+        alt: "My Site Logo",
+        src: "img/Logo.png"
       },
       links: [
-        {to: 'docs/doc1', label: 'Docs', position: 'left'},
-        {href: 'https://bitgrin.dev', label: 'Website', position: 'left'},
-		{
-          href: 'https://github.com/Bitgrin',
-          label: 'GitHub',
-          position: 'right',
-        },
-      ],
+        { to: "docs/introduction", label: "Docs", position: "left" },
+        { href: "https://bitgrin.dev", label: "Website", position: "left" },
+        {
+          href: "https://github.com/Bitgrin",
+          label: "GitHub",
+          position: "right"
+        }
+      ]
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [
         {
-          title: 'Docs',
+          title: "Docs",
           items: [
             {
-              label: 'Docs',
-              to: 'docs/doc1',
-            },
-          ],
+              label: "Docs",
+              to: "docs/introduction"
+            }
+          ]
         },
         {
-          title: 'Community',
+          title: "Community",
           items: [
             {
-              label: 'Discord',
-              href: 'https://discord.gg/UWxay3c',
-            },
-          ],
+              label: "Discord",
+              href: "https://discord.gg/UWxay3c"
+            }
+          ]
         },
         {
-          title: 'Social',
+          title: "Social",
           items: [
-           /// {
-           ///   label: 'Blog',
-           ///   to: 'blog',
-           /// },
-          ],
-        },
+            /// {
+            ///   label: 'Blog',
+            ///   to: 'blog',
+            /// },
+          ]
+        }
       ],
       logo: {
-        alt: 'Facebook Open Source Logo',
-        src: 'https://docusaurus.io/img/oss_logo.png',
+        alt: "Facebook Open Source Logo",
+        src: "https://docusaurus.io/img/oss_logo.png"
       },
-      copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc. Built with Docusaurus.`,
-    },
+      copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc. Built with Docusaurus.`
+    }
   },
   presets: [
     [
-      '@docusaurus/preset-classic',
+      "@docusaurus/preset-classic",
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve("./sidebars.js")
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
-      },
-    ],
-  ],
+          customCss: require.resolve("./src/css/custom.css")
+        }
+      }
+    ]
+  ]
 };
