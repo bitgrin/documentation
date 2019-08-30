@@ -2,18 +2,18 @@
 title: Contribute
 ---
 
-Thank you for trying to contribute to the documentation!👋
+Thank you for trying to contribute to the documentation!❤️
 
 I promise its very easy to do, and this guide will guide you through exactly how to do it.
 You don't need to download any special programs, and can do it just from the browsers text-editor. All you need is a github account which is free.
 
 ## Editing document pages
-To edit any of the pages here just navigate to [the documentation page on Bitgrins GitHub](https://github.com/bitgrin/documentation/tree/master/docs)  You will be greeted with a page similiar to this  ![Image not found](/img/PageEdit1.PNG "How to find a document to edit")
+To edit any of the pages here just navigate to [the documentation page on Bitgrins GitHub](https://github.com/bitgrin/documentation/tree/master/docs)  You will be greeted with a page similiar to this  ![Image not found](../../img/PageEdit1.PNG "How to find a document to edit")
 
 Click the document you want to edit, for example this page is [docscontributing](https://github.com/bitgrin/documentation/blob/master/docs/docscontributing.md)
 Then simply click the edit icon
 
-![Image not found](/img/PageEdit2.png "Where is the edit icon?")
+![Image not found](../../img/PageEdit2.png "Where is the edit icon?")
 
 A GitHub text editor will appear, the text will look vagely like a normal text with the exception of Markdown styles. You can quickly edit the document and see the changes on the fly by clicking "preview changes"
 
@@ -194,7 +194,7 @@ Some text to show that the reference links can follow later.
 ### Images
 
 ⚠️ Images should be hosted on Bitgrins github, you can see the guide how to upload them [here](#adding-images)  
-⚠️ Images hosted on the Bitgrin github page should be posted with [/img/Imagename.extension]
+⚠️ Images hosted on the Bitgrin github page under img should be posted with ```[../../img/Imagename.extension]``` and ```[Imagename.extension]``` if dropped in docs folder 
 ```
 Here's Markdowns-here logo (hover to see the title text):
 
@@ -373,7 +373,7 @@ then
 ```img```
 And then simply drag and drop!
 
-Now just [submit the changes](#commiting-the-changes)
+Now just [submit the changes](#committing-the-changes)
 
 ## Adding new documentation pages
 

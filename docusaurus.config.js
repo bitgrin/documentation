@@ -6,9 +6,9 @@
  */
 
 module.exports = {
-  title: "Thank you for contributing❤️",
+  title: "Welcome to Bitgrin Documentation!",
   tagline:
-    "You found a hidden index page because you build the docs from the source, you can get to editing it right away!",
+    "If you need to know anything about how to work with Bitgrin you came to the right place!",
   url: "https://docs.bitgrin.dev",
   baseUrl: "/",
   favicon: "img/Logo.png",

@@ -25,22 +25,23 @@ const features = [
     )
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>Find everything that you need</>,
     imageUrl: "img/undraw_docusaurus_tree.svg",
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Extensive Bitgrin documents have everything that you possibly need, to
+        develop on Bitgrin or use XBG. If its not here, you can add it easily
+        you can check guides.
       </>
     )
   },
   {
-    title: <>Powered by React</>,
+    title: <>Everything open source</>,
     imageUrl: "img/undraw_docusaurus_react.svg",
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        You can check the source of everything and improve anything, we have a
+        big community eager to help you as well.
       </>
     )
   }
@@ -52,7 +53,7 @@ function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      description="All the Bitgrin documentation in one place <head />"
     >
       <header className={classnames("hero hero--primary", styles.heroBanner)}>
         <div className="container">
@@ -66,7 +67,7 @@ function Home() {
               )}
               to={withBaseUrl("docs/docscontributing")}
             >
-              Get Started
+              Check it out
             </Link>
           </div>
         </div>
