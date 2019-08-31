@@ -3,6 +3,19 @@
     "main"
   ],
   "origins": {
+    "0": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      64,
+      0
+    ],
     "1": [
       0,
       2,
@@ -12,7 +25,7 @@
       6,
       7,
       9,
-      38,
+      64,
       1
     ],
     "2": [
@@ -23,30 +36,6 @@
       7,
       9,
       2
-    ],
-    "common": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11,
-      12,
-      13,
-      14,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20,
-      38,
-      0
     ],
     "@site/src\\pages\\index.js": [
       0,
@@ -87,115 +76,182 @@
       9
     ],
     "@site/blog\\2019-05-28-hola.md?truncated=true": [
-      0,
       10
     ],
     "@site/blog\\2019-05-30-welcome.md?truncated=true": [
-      0,
       11
     ],
     "@site/blog\\2019-05-29-hello-world.md": [
-      0,
       12
     ],
     "@site/blog\\2019-05-28-hola.md": [
-      0,
       13
     ],
     "@site/blog\\2019-05-30-welcome.md": [
-      0,
       14
     ],
     "@site/blog\\2019-05-29-hello-world.md?truncated=true": [
-      0,
       15
     ],
-    "@site/docs\\doc1.md": [
-      0,
+    "@site/docs\\commandscli.md": [
       16
     ],
-    "@site/docs\\doc3.md": [
-      0,
+    "@site/docs\\commandsclinode.md": [
       17
     ],
-    "@site/docs\\docscontributing.md": [
-      0,
+    "@site/docs\\compileclinode.md": [
       18
     ],
-    "@site/docs\\introduction.md": [
-      0,
+    "@site/docs\\compilecliwallet.md": [
       19
     ],
-    "@site/docs\\mdx.md": [
-      0,
+    "@site/docs\\compilekingfish.md": [
       20
     ],
-    "D:\\Bitgrin\\Bitgrin Doc\\backup\\documentation\\.docusaurus\\docusaurus-plugin-content-docs\\docs-b5f.json": [
+    "@site/docs\\doc1.md": [
       21
     ],
-    "main": [
-      36,
+    "@site/docs\\doc3.md": [
       22
     ],
-    "D:\\Bitgrin\\Bitgrin Doc\\backup\\documentation\\.docusaurus\\docusaurus-plugin-content-blog\\blog-c06.json": [
+    "@site/docs\\docscontributing.md": [
       23
     ],
-    "D:\\Bitgrin\\Bitgrin Doc\\backup\\documentation\\.docusaurus\\docusaurus-plugin-content-blog\\blog-tags-docusaurus-0e0.json": [
+    "@site/docs\\downloadclinode.md": [
       24
     ],
-    "D:\\Bitgrin\\Bitgrin Doc\\backup\\documentation\\.docusaurus\\docusaurus-plugin-content-blog\\blog-tags-facebook-038.json": [
+    "@site/docs\\downloadcliwallet.md": [
       25
     ],
-    "D:\\Bitgrin\\Bitgrin Doc\\backup\\documentation\\.docusaurus\\docusaurus-plugin-content-blog\\blog-tags-hello-039.json": [
+    "@site/docs\\downloadkingfish.md": [
       26
     ],
-    "D:\\Bitgrin\\Bitgrin Doc\\backup\\documentation\\.docusaurus\\docusaurus-plugin-content-blog\\blog-tags-hola-ea2.json": [
+    "@site/docs\\introduction.md": [
       27
     ],
-    "D:\\Bitgrin\\Bitgrin Doc\\backup\\documentation\\.docusaurus\\docusaurus-plugin-content-blog\\blog-welcome-001.json": [
+    "@site/docs\\mdx.md": [
       28
     ],
-    "D:\\Bitgrin\\Bitgrin Doc\\backup\\documentation\\.docusaurus\\docusaurus-plugin-content-docs\\docs-doc-1-6ac.json": [
+    "@site/docs\\miningsoftware.md": [
       29
     ],
-    "D:\\Bitgrin\\Bitgrin Doc\\backup\\documentation\\.docusaurus\\docusaurus-plugin-content-docs\\docs-doc-3-72e.json": [
+    "@site/docs\\mwintro.md": [
       30
     ],
-    "D:\\Bitgrin\\Bitgrin Doc\\backup\\documentation\\.docusaurus\\docusaurus-plugin-content-docs\\docs-docscontributing-99e.json": [
+    "@site/docs\\pool.md": [
       31
     ],
-    "D:\\Bitgrin\\Bitgrin Doc\\backup\\documentation\\.docusaurus\\docusaurus-plugin-content-docs\\docs-introduction-bf7.json": [
+    "@site/docs\\portforwarding.md": [
       32
     ],
-    "D:\\Bitgrin\\Bitgrin Doc\\backup\\documentation\\.docusaurus\\docusaurus-plugin-content-docs\\docs-mdx-04f.json": [
+    "@site/docs\\webwalletintro.md": [
       33
     ],
-    "D:\\Bitgrin\\Bitgrin Doc\\backup\\documentation\\.docusaurus\\docusaurus-plugin-content-blog\\blog-hola-089.json": [
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-b5f.json": [
       34
     ],
-    "D:\\Bitgrin\\Bitgrin Doc\\backup\\documentation\\.docusaurus\\docusaurus-plugin-content-blog\\blog-hello-world-09a.json": [
+    "main": [
+      62,
       35
     ],
-    "runtime~main": [
-      22,
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-blog\\blog-c06.json": [
       36
     ],
-    "D:\\Bitgrin\\Bitgrin Doc\\backup\\documentation\\.docusaurus\\docusaurus-plugin-content-blog\\blog-tags-tags-4c2.json": [
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-blog\\blog-tags-docusaurus-0e0.json": [
       37
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-blog\\blog-tags-facebook-038.json": [
+      38
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-blog\\blog-tags-hello-039.json": [
+      39
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-blog\\blog-tags-hola-ea2.json": [
+      40
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-blog\\blog-welcome-001.json": [
+      41
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-commandscli-5a3.json": [
+      42
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-commandsclinode-9aa.json": [
+      43
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-compileclinode-5b7.json": [
+      44
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-compilecliwallet-39c.json": [
+      45
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-compilekingfish-c70.json": [
+      46
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-doc-1-6ac.json": [
+      47
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-doc-3-72e.json": [
+      48
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-docscontributing-99e.json": [
+      49
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-downloadclinode-c63.json": [
+      50
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-downloadcliwallet-3d3.json": [
+      51
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-downloadkingfish-ea5.json": [
+      52
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-introduction-bf7.json": [
+      53
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-mdx-04f.json": [
+      54
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-miningsoftware-c04.json": [
+      55
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-mwintro-5d6.json": [
+      56
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-pool-ff6.json": [
+      57
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-portforwarding-66a.json": [
+      58
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-docs\\docs-webwalletintro-feb.json": [
+      59
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-blog\\blog-hola-089.json": [
+      60
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-blog\\blog-hello-world-09a.json": [
+      61
+    ],
+    "runtime~main": [
+      35,
+      62
+    ],
+    "D:\\Bitgrin\\Bitgrin Doc\\Development version for building\\.docusaurus\\docusaurus-plugin-content-blog\\blog-tags-tags-4c2.json": [
+      63
     ],
     "@theme/NotFound": [
       0,
       1,
-      38
+      64
     ]
   },
   "assets": {
     "0": {
       "js": [
         {
-          "file": "common.1eb26d46b0bf64afac3f.js",
-          "hash": "c666606b9a855327cff6",
-          "publicPath": "/common.1eb26d46b0bf64afac3f.js"
+          "file": "0.113d4b46da844921c57a.js",
+          "hash": "3f5a4aff8b1174ca1459",
+          "publicPath": "/0.113d4b46da844921c57a.js"
         }
       ]
     },
@@ -203,31 +259,31 @@
       "css": [
         {
           "file": "1.7cc1ec06bd83c57cc543.css",
-          "hash": "e1de34a899b751a1b8f4",
+          "hash": "853675053f175700ba9d",
           "publicPath": "/1.7cc1ec06bd83c57cc543.css"
         }
       ],
       "js": [
         {
-          "file": "1.8ff738e91786269ed824.js",
-          "hash": "e1de34a899b751a1b8f4",
-          "publicPath": "/1.8ff738e91786269ed824.js"
+          "file": "1.dfa87061722b7302ca00.js",
+          "hash": "853675053f175700ba9d",
+          "publicPath": "/1.dfa87061722b7302ca00.js"
         }
       ]
     },
     "2": {
       "css": [
         {
-          "file": "2.477fab3b8f884775624d.css",
-          "hash": "f5d1168773da1cb93e35",
-          "publicPath": "/2.477fab3b8f884775624d.css"
+          "file": "2.1055032e76d5338aea7f.css",
+          "hash": "615891ba67358393964e",
+          "publicPath": "/2.1055032e76d5338aea7f.css"
         }
       ],
       "js": [
         {
-          "file": "2.ddec3504e361c89e2cf7.js",
-          "hash": "f5d1168773da1cb93e35",
-          "publicPath": "/2.ddec3504e361c89e2cf7.js"
+          "file": "2.e0283febc1902c93397a.js",
+          "hash": "615891ba67358393964e",
+          "publicPath": "/2.e0283febc1902c93397a.js"
         }
       ]
     },
@@ -235,51 +291,51 @@
       "css": [
         {
           "file": "component---site-src-pages-index-jsece-a18.cb5b2df9606db9547467.css",
-          "hash": "6e864cf56f0b5e6220e0",
+          "hash": "5f42786fe0b76c37a4cf",
           "publicPath": "/component---site-src-pages-index-jsece-a18.cb5b2df9606db9547467.css"
         }
       ],
       "js": [
         {
-          "file": "component---site-src-pages-index-jsece-a18.15ebb5c2a690d8b1ef98.js",
-          "hash": "6e864cf56f0b5e6220e0",
-          "publicPath": "/component---site-src-pages-index-jsece-a18.15ebb5c2a690d8b1ef98.js"
+          "file": "component---site-src-pages-index-jsece-a18.b233d98f47bad972cc78.js",
+          "hash": "5f42786fe0b76c37a4cf",
+          "publicPath": "/component---site-src-pages-index-jsece-a18.b233d98f47bad972cc78.js"
         }
       ]
     },
     "4": {
       "js": [
         {
-          "file": "component---theme-blog-list-pagea-6-a-7ba.4a1a3f87e17ff80e4bc0.js",
-          "hash": "fde8a2b7334469edf3cc",
-          "publicPath": "/component---theme-blog-list-pagea-6-a-7ba.4a1a3f87e17ff80e4bc0.js"
+          "file": "component---theme-blog-list-pagea-6-a-7ba.095c5c6711f09dc76291.js",
+          "hash": "b6bf38feb7de66850988",
+          "publicPath": "/component---theme-blog-list-pagea-6-a-7ba.095c5c6711f09dc76291.js"
         }
       ]
     },
     "5": {
       "js": [
         {
-          "file": "component---theme-blog-post-pageccc-cab.a5b03fae735c6f252b82.js",
-          "hash": "73ac0b43cb002235d119",
-          "publicPath": "/component---theme-blog-post-pageccc-cab.a5b03fae735c6f252b82.js"
+          "file": "component---theme-blog-post-pageccc-cab.0d9c50f8bcef916f3f04.js",
+          "hash": "6c68571dd8048693c765",
+          "publicPath": "/component---theme-blog-post-pageccc-cab.0d9c50f8bcef916f3f04.js"
         }
       ]
     },
     "6": {
       "js": [
         {
-          "file": "component---theme-blog-tags-list-page-01-a-d0b.9772905d1e7c4b909486.js",
-          "hash": "24ac48be0ad81370bc66",
-          "publicPath": "/component---theme-blog-tags-list-page-01-a-d0b.9772905d1e7c4b909486.js"
+          "file": "component---theme-blog-tags-list-page-01-a-d0b.d2600a2671fc027e7299.js",
+          "hash": "26eb22e079b7786e430d",
+          "publicPath": "/component---theme-blog-tags-list-page-01-a-d0b.d2600a2671fc027e7299.js"
         }
       ]
     },
     "7": {
       "js": [
         {
-          "file": "component---theme-blog-tags-posts-page-687-b6c.1b663a9ab7b93fa38a05.js",
-          "hash": "0f16f3435cd780d8a9ed",
-          "publicPath": "/component---theme-blog-tags-posts-page-687-b6c.1b663a9ab7b93fa38a05.js"
+          "file": "component---theme-blog-tags-posts-page-687-b6c.5744dc7ffe638340490b.js",
+          "hash": "5b91b1923a90059f7f74",
+          "publicPath": "/component---theme-blog-tags-posts-page-687-b6c.5744dc7ffe638340490b.js"
         }
       ]
     },
@@ -287,15 +343,15 @@
       "css": [
         {
           "file": "component---theme-doc-legacy-item-031-769.1f1ce10374de019f5d3a.css",
-          "hash": "51fd6dfb37f44add04a8",
+          "hash": "5972acaa5d24ed3067a3",
           "publicPath": "/component---theme-doc-legacy-item-031-769.1f1ce10374de019f5d3a.css"
         }
       ],
       "js": [
         {
-          "file": "component---theme-doc-legacy-item-031-769.bfcd1e3aa44230c3a21c.js",
-          "hash": "51fd6dfb37f44add04a8",
-          "publicPath": "/component---theme-doc-legacy-item-031-769.bfcd1e3aa44230c3a21c.js"
+          "file": "component---theme-doc-legacy-item-031-769.6a70d8572f327b775f51.js",
+          "hash": "5972acaa5d24ed3067a3",
+          "publicPath": "/component---theme-doc-legacy-item-031-769.6a70d8572f327b775f51.js"
         }
       ]
     },
@@ -303,283 +359,517 @@
       "css": [
         {
           "file": "component---theme-doc-legacy-page-9-e-7-ca5.3c38a2f40a51efdd72a0.css",
-          "hash": "e0162d8dc17d46774945",
+          "hash": "cab64ba04bacc07f1103",
           "publicPath": "/component---theme-doc-legacy-page-9-e-7-ca5.3c38a2f40a51efdd72a0.css"
         }
       ],
       "js": [
         {
-          "file": "component---theme-doc-legacy-page-9-e-7-ca5.1e643a7ba858d542e86a.js",
-          "hash": "e0162d8dc17d46774945",
-          "publicPath": "/component---theme-doc-legacy-page-9-e-7-ca5.1e643a7ba858d542e86a.js"
+          "file": "component---theme-doc-legacy-page-9-e-7-ca5.87ae91b4df984706a2a3.js",
+          "hash": "cab64ba04bacc07f1103",
+          "publicPath": "/component---theme-doc-legacy-page-9-e-7-ca5.87ae91b4df984706a2a3.js"
         }
       ]
     },
     "10": {
       "js": [
         {
-          "file": "content---blog-273-7f3.ceb654b9b020e20e8a3b.js",
-          "hash": "6755407062c877537c24",
-          "publicPath": "/content---blog-273-7f3.ceb654b9b020e20e8a3b.js"
+          "file": "content---blog-273-7f3.608b05cb51c413091319.js",
+          "hash": "326baea47cd56d1dc415",
+          "publicPath": "/content---blog-273-7f3.608b05cb51c413091319.js"
         }
       ]
     },
     "11": {
       "js": [
         {
-          "file": "content---blog-99-c-ea6.09e574bb7966f447fa15.js",
-          "hash": "08a1f05806ecce1a72f5",
-          "publicPath": "/content---blog-99-c-ea6.09e574bb7966f447fa15.js"
+          "file": "content---blog-99-c-ea6.ee27af0da90fe1d7933e.js",
+          "hash": "7136222aa3e070a926b2",
+          "publicPath": "/content---blog-99-c-ea6.ee27af0da90fe1d7933e.js"
         }
       ]
     },
     "12": {
       "js": [
         {
-          "file": "content---blog-hello-world-843-97f.ae226723d89075c36e0e.js",
-          "hash": "89c345248699cda2ca60",
-          "publicPath": "/content---blog-hello-world-843-97f.ae226723d89075c36e0e.js"
+          "file": "content---blog-hello-world-843-97f.2a5e205d4b3df2d455a6.js",
+          "hash": "94de3183f9b494c23f0a",
+          "publicPath": "/content---blog-hello-world-843-97f.2a5e205d4b3df2d455a6.js"
         }
       ]
     },
     "13": {
       "js": [
         {
-          "file": "content---blog-holaaed-b12.8cdf5f31f8de1f8af0a3.js",
-          "hash": "a5ba58da70ac36ffd6a2",
-          "publicPath": "/content---blog-holaaed-b12.8cdf5f31f8de1f8af0a3.js"
+          "file": "content---blog-holaaed-b12.c59645b0669a530157f8.js",
+          "hash": "d603a3d74f5f1792fa44",
+          "publicPath": "/content---blog-holaaed-b12.c59645b0669a530157f8.js"
         }
       ]
     },
     "14": {
       "js": [
         {
-          "file": "content---blog-welcomea-9-a-cb6.58c740b8c13d93a8047b.js",
-          "hash": "628b9936a3cff92b7def",
-          "publicPath": "/content---blog-welcomea-9-a-cb6.58c740b8c13d93a8047b.js"
+          "file": "content---blog-welcomea-9-a-cb6.1248db23a524e787b605.js",
+          "hash": "e007f2f344a1238ff398",
+          "publicPath": "/content---blog-welcomea-9-a-cb6.1248db23a524e787b605.js"
         }
       ]
     },
     "15": {
       "js": [
         {
-          "file": "content---blogc-0-a-22b.0784764a111356b668ff.js",
-          "hash": "5f4236d176b9f4aaed6f",
-          "publicPath": "/content---blogc-0-a-22b.0784764a111356b668ff.js"
+          "file": "content---blogc-0-a-22b.90826bc5d8e559e97fbe.js",
+          "hash": "304ace7572903a8b1010",
+          "publicPath": "/content---blogc-0-a-22b.90826bc5d8e559e97fbe.js"
         }
       ]
     },
     "16": {
       "js": [
         {
-          "file": "content---docs-doc-1736-a06.6e64a5e9bae92837b415.js",
-          "hash": "3e2e51cd8052e7f14b4b",
-          "publicPath": "/content---docs-doc-1736-a06.6e64a5e9bae92837b415.js"
+          "file": "content---docs-commandscli-723-86f.39bce907a834f2e095a4.js",
+          "hash": "08ef39dbad4a5fde8bbd",
+          "publicPath": "/content---docs-commandscli-723-86f.39bce907a834f2e095a4.js"
         }
       ]
     },
     "17": {
       "js": [
         {
-          "file": "content---docs-doc-3225-2eb.d3b3b359e65f48e509b1.js",
-          "hash": "75771183befe3ca7980d",
-          "publicPath": "/content---docs-doc-3225-2eb.d3b3b359e65f48e509b1.js"
+          "file": "content---docs-commandsclinodeb-59-a7f.19f42facb119f99d1e2a.js",
+          "hash": "718b1854db9a86f1ad37",
+          "publicPath": "/content---docs-commandsclinodeb-59-a7f.19f42facb119f99d1e2a.js"
         }
       ]
     },
     "18": {
       "js": [
         {
-          "file": "content---docs-docscontributing-80-f-0bc.cd1b1a7c198f2434df58.js",
-          "hash": "1a7bfaf77806ee1899f1",
-          "publicPath": "/content---docs-docscontributing-80-f-0bc.cd1b1a7c198f2434df58.js"
+          "file": "content---docs-compileclinoded-62-928.69bbc7b98c6b8d0c7d99.js",
+          "hash": "d30dfcb2075e8fc7d6c4",
+          "publicPath": "/content---docs-compileclinoded-62-928.69bbc7b98c6b8d0c7d99.js"
         }
       ]
     },
     "19": {
       "js": [
         {
-          "file": "content---docs-introduction-1-a-3-85f.b0e56acf43a0bce31ff7.js",
-          "hash": "946c0e609d3ae242a0e5",
-          "publicPath": "/content---docs-introduction-1-a-3-85f.b0e56acf43a0bce31ff7.js"
+          "file": "content---docs-compilecliwalletbe-1-f3f.dd495a26d065b5e49470.js",
+          "hash": "491e8e9fb99847f38863",
+          "publicPath": "/content---docs-compilecliwalletbe-1-f3f.dd495a26d065b5e49470.js"
         }
       ]
     },
     "20": {
       "js": [
         {
-          "file": "content---docs-mdx-45-a-26c.9fb4fe456f2fce49d778.js",
-          "hash": "c06978b9dc7330a59442",
-          "publicPath": "/content---docs-mdx-45-a-26c.9fb4fe456f2fce49d778.js"
+          "file": "content---docs-compilekingfish-04-f-dd7.9b5064e0103242d057cf.js",
+          "hash": "d8a689380704653546cf",
+          "publicPath": "/content---docs-compilekingfish-04-f-dd7.9b5064e0103242d057cf.js"
         }
       ]
     },
     "21": {
       "js": [
         {
-          "file": "docsMetadata---docsadf-227.b6a75177956888dc3649.js",
-          "hash": "7e268185c7c0a01d831e",
-          "publicPath": "/docsMetadata---docsadf-227.b6a75177956888dc3649.js"
+          "file": "content---docs-doc-1736-a06.4e6b7c1e7f3d8ff6c6ba.js",
+          "hash": "296d5e848ed3532c3130",
+          "publicPath": "/content---docs-doc-1736-a06.4e6b7c1e7f3d8ff6c6ba.js"
         }
       ]
     },
     "22": {
-      "css": [
-        {
-          "file": "main.52af7a420d18a78583e1.css",
-          "hash": "edc2ee865ccdfd9ed837",
-          "publicPath": "/main.52af7a420d18a78583e1.css"
-        }
-      ],
       "js": [
         {
-          "file": "main.6dab07b5d2d35106d2d9.js",
-          "hash": "edc2ee865ccdfd9ed837",
-          "publicPath": "/main.6dab07b5d2d35106d2d9.js"
+          "file": "content---docs-doc-3225-2eb.0e6c0006d47f47794598.js",
+          "hash": "111430496691ae2eb0c0",
+          "publicPath": "/content---docs-doc-3225-2eb.0e6c0006d47f47794598.js"
         }
       ]
     },
     "23": {
       "js": [
         {
-          "file": "metadata---blog-220-496.dfcbd83525285f692fa3.js",
-          "hash": "77b8b98734dcc7480ed7",
-          "publicPath": "/metadata---blog-220-496.dfcbd83525285f692fa3.js"
+          "file": "content---docs-docscontributing-80-f-0bc.7e6a209b84f5d8550d33.js",
+          "hash": "9412fab4970aa2b65bff",
+          "publicPath": "/content---docs-docscontributing-80-f-0bc.7e6a209b84f5d8550d33.js"
         }
       ]
     },
     "24": {
       "js": [
         {
-          "file": "metadata---blog-tags-docusaurus-820-ad1.349f8d8e4f8c8f23a66e.js",
-          "hash": "1d4769a65c6624765a59",
-          "publicPath": "/metadata---blog-tags-docusaurus-820-ad1.349f8d8e4f8c8f23a66e.js"
+          "file": "content---docs-downloadclinodef-12-192.bf95d7b77401d5340b3e.js",
+          "hash": "3939acaf7d4930c6541f",
+          "publicPath": "/content---docs-downloadclinodef-12-192.bf95d7b77401d5340b3e.js"
         }
       ]
     },
     "25": {
       "js": [
         {
-          "file": "metadata---blog-tags-facebookb-02-34e.21c64b86d65280bdd0dc.js",
-          "hash": "1cffed7551d092d1cd78",
-          "publicPath": "/metadata---blog-tags-facebookb-02-34e.21c64b86d65280bdd0dc.js"
+          "file": "content---docs-downloadcliwallet-26-b-cd9.921570c5152a89b9169c.js",
+          "hash": "1b469d8528c1ca4bcb72",
+          "publicPath": "/content---docs-downloadcliwallet-26-b-cd9.921570c5152a89b9169c.js"
         }
       ]
     },
     "26": {
       "js": [
         {
-          "file": "metadata---blog-tags-helloc-74-d39.d59493a0a4fa132cdabd.js",
-          "hash": "b24325acc8b2eb7a937f",
-          "publicPath": "/metadata---blog-tags-helloc-74-d39.d59493a0a4fa132cdabd.js"
+          "file": "content---docs-downloadkingfish-76-e-ed0.1f0853a7575f630d755f.js",
+          "hash": "00e3030144a834264d05",
+          "publicPath": "/content---docs-downloadkingfish-76-e-ed0.1f0853a7575f630d755f.js"
         }
       ]
     },
     "27": {
       "js": [
         {
-          "file": "metadata---blog-tags-hola-281-945.053de46217b9061db14c.js",
-          "hash": "9c4824471d1bce365776",
-          "publicPath": "/metadata---blog-tags-hola-281-945.053de46217b9061db14c.js"
+          "file": "content---docs-introduction-1-a-3-85f.f1a92c2023c5c811ff32.js",
+          "hash": "2de78313db331b24782b",
+          "publicPath": "/content---docs-introduction-1-a-3-85f.f1a92c2023c5c811ff32.js"
         }
       ]
     },
     "28": {
       "js": [
         {
-          "file": "metadata---blog-welcomee-08-49f.9aa8add345e65111b557.js",
-          "hash": "a2e57cf9ec296777fc66",
-          "publicPath": "/metadata---blog-welcomee-08-49f.9aa8add345e65111b557.js"
+          "file": "content---docs-mdx-45-a-26c.53c9708463f60dde4ca0.js",
+          "hash": "da7b27f626b3e12b3c76",
+          "publicPath": "/content---docs-mdx-45-a-26c.53c9708463f60dde4ca0.js"
         }
       ]
     },
     "29": {
       "js": [
         {
-          "file": "metadata---docs-doc-17-f-9-f23.13a9cd40c79837bcda9f.js",
-          "hash": "95297a961bcbc3722460",
-          "publicPath": "/metadata---docs-doc-17-f-9-f23.13a9cd40c79837bcda9f.js"
+          "file": "content---docs-miningsoftware-692-028.87458f636ef48c0f7666.js",
+          "hash": "92ad985e110bb5b194d7",
+          "publicPath": "/content---docs-miningsoftware-692-028.87458f636ef48c0f7666.js"
         }
       ]
     },
     "30": {
       "js": [
         {
-          "file": "metadata---docs-doc-3124-fa5.1c147c35fa97fd878335.js",
-          "hash": "d37456f9fdfe1e652d06",
-          "publicPath": "/metadata---docs-doc-3124-fa5.1c147c35fa97fd878335.js"
+          "file": "content---docs-mwintro-6-ac-ea3.e934a24e60a2025d07eb.js",
+          "hash": "cc6be6ecda7e437a2fad",
+          "publicPath": "/content---docs-mwintro-6-ac-ea3.e934a24e60a2025d07eb.js"
         }
       ]
     },
     "31": {
       "js": [
         {
-          "file": "metadata---docs-docscontributing-8-b-7-083.e561c49b2f7f96364bd9.js",
-          "hash": "bf4da49204fe6f293f80",
-          "publicPath": "/metadata---docs-docscontributing-8-b-7-083.e561c49b2f7f96364bd9.js"
+          "file": "content---docs-pool-4-f-7-0f5.f1a18b91775cf3ee5d45.js",
+          "hash": "d267177fbbc4c0e01273",
+          "publicPath": "/content---docs-pool-4-f-7-0f5.f1a18b91775cf3ee5d45.js"
         }
       ]
     },
     "32": {
       "js": [
         {
-          "file": "metadata---docs-introductionbc-2-389.91c118ff1f5440abab64.js",
-          "hash": "df73afcca73446960296",
-          "publicPath": "/metadata---docs-introductionbc-2-389.91c118ff1f5440abab64.js"
+          "file": "content---docs-portforwardingef-3-c0b.2755e60d0a27b975dbee.js",
+          "hash": "ef231b91472f75d28b24",
+          "publicPath": "/content---docs-portforwardingef-3-c0b.2755e60d0a27b975dbee.js"
         }
       ]
     },
     "33": {
       "js": [
         {
-          "file": "metadata---docs-mdx-253-242.3935a4d175eee0abdf5e.js",
-          "hash": "b2d0518cb447f71dea94",
-          "publicPath": "/metadata---docs-mdx-253-242.3935a4d175eee0abdf5e.js"
+          "file": "content---docs-webwalletintro-0-bc-237.656eb77bdfe237f9d656.js",
+          "hash": "d9c87c723ad433051a9f",
+          "publicPath": "/content---docs-webwalletintro-0-bc-237.656eb77bdfe237f9d656.js"
         }
       ]
     },
     "34": {
       "js": [
         {
-          "file": "nextItem---blog-hello-worldc-69-be0.3691c03476bd9235f0ec.js",
-          "hash": "834be1bfe6d61905e36b",
-          "publicPath": "/nextItem---blog-hello-worldc-69-be0.3691c03476bd9235f0ec.js"
+          "file": "docsMetadata---docsc-0-f-ea2.ef61ea1b4ed5661c5244.js",
+          "hash": "220bc9f782611870863f",
+          "publicPath": "/docsMetadata---docsc-0-f-ea2.ef61ea1b4ed5661c5244.js"
         }
       ]
     },
     "35": {
+      "css": [
+        {
+          "file": "main.52af7a420d18a78583e1.css",
+          "hash": "117518da779f2f3c1e6e",
+          "publicPath": "/main.52af7a420d18a78583e1.css"
+        }
+      ],
       "js": [
         {
-          "file": "nextItem---blog-welcomeefa-e26.c7998d01de4599e79e78.js",
-          "hash": "c7184bcf08db2bc1a254",
-          "publicPath": "/nextItem---blog-welcomeefa-e26.c7998d01de4599e79e78.js"
+          "file": "main.83e4cfef865eb9f4c44a.js",
+          "hash": "117518da779f2f3c1e6e",
+          "publicPath": "/main.83e4cfef865eb9f4c44a.js"
         }
       ]
     },
     "36": {
       "js": [
         {
-          "file": "runtime~main.92e4689a2a96fe9fe3f6.js",
-          "hash": "c8c896ebaa3c59348c1b",
-          "publicPath": "/runtime~main.92e4689a2a96fe9fe3f6.js"
+          "file": "metadata---blog-154-805.9ff45182d4ec558abec0.js",
+          "hash": "79c779835d730285dc9e",
+          "publicPath": "/metadata---blog-154-805.9ff45182d4ec558abec0.js"
         }
       ]
     },
     "37": {
       "js": [
         {
-          "file": "tags---blog-tags-1-aa-e27.048b7b4238885a4db841.js",
-          "hash": "0ba298087a288e8fae3b",
-          "publicPath": "/tags---blog-tags-1-aa-e27.048b7b4238885a4db841.js"
+          "file": "metadata---blog-tags-docusaurus-6-d-3-b79.d4e6053e59c6491c5bbd.js",
+          "hash": "687239268e3b4ba0004e",
+          "publicPath": "/metadata---blog-tags-docusaurus-6-d-3-b79.d4e6053e59c6491c5bbd.js"
         }
       ]
     },
     "38": {
       "js": [
         {
-          "file": "38.cf88a89771583b7cbacb.js",
-          "hash": "334bfdab4379d5de8fae",
-          "publicPath": "/38.cf88a89771583b7cbacb.js"
+          "file": "metadata---blog-tags-facebook-494-6d7.bb9dd1cedea5e51608cf.js",
+          "hash": "4cc4e8e14ec9742bea67",
+          "publicPath": "/metadata---blog-tags-facebook-494-6d7.bb9dd1cedea5e51608cf.js"
+        }
+      ]
+    },
+    "39": {
+      "js": [
+        {
+          "file": "metadata---blog-tags-hello-782-466.3508430dc074fc8ea09a.js",
+          "hash": "188ccf8c1fcfe51c8709",
+          "publicPath": "/metadata---blog-tags-hello-782-466.3508430dc074fc8ea09a.js"
+        }
+      ]
+    },
+    "40": {
+      "js": [
+        {
+          "file": "metadata---blog-tags-holae-97-043.d70837437733c96ebf52.js",
+          "hash": "b4b3a0bee5af2d212dff",
+          "publicPath": "/metadata---blog-tags-holae-97-043.d70837437733c96ebf52.js"
+        }
+      ]
+    },
+    "41": {
+      "js": [
+        {
+          "file": "metadata---blog-welcome-9-a-9-0c7.d337e0476285e187d8da.js",
+          "hash": "344d35b77b0bc56be7eb",
+          "publicPath": "/metadata---blog-welcome-9-a-9-0c7.d337e0476285e187d8da.js"
+        }
+      ]
+    },
+    "42": {
+      "js": [
+        {
+          "file": "metadata---docs-commandsclicc-1-80d.d8ce46f39aa14f3181dc.js",
+          "hash": "8b381feceb666f5b52f6",
+          "publicPath": "/metadata---docs-commandsclicc-1-80d.d8ce46f39aa14f3181dc.js"
+        }
+      ]
+    },
+    "43": {
+      "js": [
+        {
+          "file": "metadata---docs-commandsclinode-4-b-3-026.ccbd0da1fc0a55912ec9.js",
+          "hash": "ad7b14dbb07d03b690de",
+          "publicPath": "/metadata---docs-commandsclinode-4-b-3-026.ccbd0da1fc0a55912ec9.js"
+        }
+      ]
+    },
+    "44": {
+      "js": [
+        {
+          "file": "metadata---docs-compileclinode-78-d-433.cba54054644ac550eaac.js",
+          "hash": "31c76a1ed0157c4d2423",
+          "publicPath": "/metadata---docs-compileclinode-78-d-433.cba54054644ac550eaac.js"
+        }
+      ]
+    },
+    "45": {
+      "js": [
+        {
+          "file": "metadata---docs-compilecliwalletcd-3-4a6.e5eb1b6398b3be9659ed.js",
+          "hash": "5b8c244beeceb3fd6e89",
+          "publicPath": "/metadata---docs-compilecliwalletcd-3-4a6.e5eb1b6398b3be9659ed.js"
+        }
+      ]
+    },
+    "46": {
+      "js": [
+        {
+          "file": "metadata---docs-compilekingfish-438-896.a27a543b2d24c055b835.js",
+          "hash": "6ca9272a9ddc39e870c0",
+          "publicPath": "/metadata---docs-compilekingfish-438-896.a27a543b2d24c055b835.js"
+        }
+      ]
+    },
+    "47": {
+      "js": [
+        {
+          "file": "metadata---docs-doc-173-e-588.0ee911e5b266dec60b2d.js",
+          "hash": "076df11de58ac3d4cf2c",
+          "publicPath": "/metadata---docs-doc-173-e-588.0ee911e5b266dec60b2d.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "metadata---docs-doc-3182-672.b38379c9cc36f048df14.js",
+          "hash": "7d8d4a69dc10558e3846",
+          "publicPath": "/metadata---docs-doc-3182-672.b38379c9cc36f048df14.js"
+        }
+      ]
+    },
+    "49": {
+      "js": [
+        {
+          "file": "metadata---docs-docscontributing-654-7d7.c8879590b139ba5a4f61.js",
+          "hash": "5dcbd796851f040485d4",
+          "publicPath": "/metadata---docs-docscontributing-654-7d7.c8879590b139ba5a4f61.js"
+        }
+      ]
+    },
+    "50": {
+      "js": [
+        {
+          "file": "metadata---docs-downloadclinode-541-19e.372614b757241be605e4.js",
+          "hash": "05e0b8f9d5a285de8315",
+          "publicPath": "/metadata---docs-downloadclinode-541-19e.372614b757241be605e4.js"
+        }
+      ]
+    },
+    "51": {
+      "js": [
+        {
+          "file": "metadata---docs-downloadcliwalletc-06-367.c99c66ea0e5c02553062.js",
+          "hash": "207a34384290c11ec172",
+          "publicPath": "/metadata---docs-downloadcliwalletc-06-367.c99c66ea0e5c02553062.js"
+        }
+      ]
+    },
+    "52": {
+      "js": [
+        {
+          "file": "metadata---docs-downloadkingfishbf-1-76e.03c20bd485ae2e13f3dd.js",
+          "hash": "639f8db8216d31705f80",
+          "publicPath": "/metadata---docs-downloadkingfishbf-1-76e.03c20bd485ae2e13f3dd.js"
+        }
+      ]
+    },
+    "53": {
+      "js": [
+        {
+          "file": "metadata---docs-introductionf-93-b29.644749a86eea1e462b4c.js",
+          "hash": "986fc31ee767f0ea3c44",
+          "publicPath": "/metadata---docs-introductionf-93-b29.644749a86eea1e462b4c.js"
+        }
+      ]
+    },
+    "54": {
+      "js": [
+        {
+          "file": "metadata---docs-mdxce-6-ebb.7553e80cd33031f80358.js",
+          "hash": "1c8d7f2355f3219bb0c3",
+          "publicPath": "/metadata---docs-mdxce-6-ebb.7553e80cd33031f80358.js"
+        }
+      ]
+    },
+    "55": {
+      "js": [
+        {
+          "file": "metadata---docs-miningsoftwarec-20-2ae.4fa2d03221a902e8ce07.js",
+          "hash": "167d8cdfe27834373daa",
+          "publicPath": "/metadata---docs-miningsoftwarec-20-2ae.4fa2d03221a902e8ce07.js"
+        }
+      ]
+    },
+    "56": {
+      "js": [
+        {
+          "file": "metadata---docs-mwintrobfb-e20.cd89c4a26098e3754eb9.js",
+          "hash": "cf27a5d8886ad4ba075a",
+          "publicPath": "/metadata---docs-mwintrobfb-e20.cd89c4a26098e3754eb9.js"
+        }
+      ]
+    },
+    "57": {
+      "js": [
+        {
+          "file": "metadata---docs-pool-7-ca-d51.7220709daa03e95e686c.js",
+          "hash": "6329da8b38e59d696c39",
+          "publicPath": "/metadata---docs-pool-7-ca-d51.7220709daa03e95e686c.js"
+        }
+      ]
+    },
+    "58": {
+      "js": [
+        {
+          "file": "metadata---docs-portforwarding-32-b-304.f81393eb55f1498c3785.js",
+          "hash": "5edc6d22621a2fc632f7",
+          "publicPath": "/metadata---docs-portforwarding-32-b-304.f81393eb55f1498c3785.js"
+        }
+      ]
+    },
+    "59": {
+      "js": [
+        {
+          "file": "metadata---docs-webwalletintro-144-b3b.84d4a1186f6a619e7f24.js",
+          "hash": "e4d9128fa2fea4ab7301",
+          "publicPath": "/metadata---docs-webwalletintro-144-b3b.84d4a1186f6a619e7f24.js"
+        }
+      ]
+    },
+    "60": {
+      "js": [
+        {
+          "file": "nextItem---blog-hello-world-389-068.2363ca1e38049cf0689c.js",
+          "hash": "b402cb710d0140847452",
+          "publicPath": "/nextItem---blog-hello-world-389-068.2363ca1e38049cf0689c.js"
+        }
+      ]
+    },
+    "61": {
+      "js": [
+        {
+          "file": "nextItem---blog-welcome-2-c-9-d39.dfb783f4f51f2d0b5aaf.js",
+          "hash": "3500c73464d3d4ff8ccc",
+          "publicPath": "/nextItem---blog-welcome-2-c-9-d39.dfb783f4f51f2d0b5aaf.js"
+        }
+      ]
+    },
+    "62": {
+      "js": [
+        {
+          "file": "runtime~main.e8a07381a99d8b4efbb5.js",
+          "hash": "5a52603565c7b4d84018",
+          "publicPath": "/runtime~main.e8a07381a99d8b4efbb5.js"
+        }
+      ]
+    },
+    "63": {
+      "js": [
+        {
+          "file": "tags---blog-tags-14-f-ba8.014344259bef06c63d9c.js",
+          "hash": "120b319ee289bdb91408",
+          "publicPath": "/tags---blog-tags-14-f-ba8.014344259bef06c63d9c.js"
+        }
+      ]
+    },
+    "64": {
+      "js": [
+        {
+          "file": "64.60d13dd7d2ab113684cb.js",
+          "hash": "d3d31fd63b72654f225c",
+          "publicPath": "/64.60d13dd7d2ab113684cb.js"
         }
       ]
     }
