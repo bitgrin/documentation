@@ -7,6 +7,17 @@
 
 module.exports = {
   docs: {
-    Documentation: ["introduction", "docscontributing"]
+    Documentation: ["introduction", "docscontributing"],
+    Mimblewimble: ["mwintro"],
+    Kingfish: ["downloadkingfish", "compilekingfish"],
+    "Command line wallet": [
+      "downloadcliwallet",
+      "commandscli",
+      "compilecliwallet"
+    ],
+    "Web wallet": ["webwalletintro"],
+    Node: ["downloadclinode", "commandsclinode", "compileclinode"],
+    Mining: ["miningsoftware", "pool"],
+    Guides: ["portforwarding"]
   }
 };

@@ -16,7 +16,7 @@ import styles from "./styles.module.css";
 const features = [
   {
     title: <>Contribute easily!</>,
-    imageUrl: "img/undraw_docusaurus_mountain.svg",
+    imageUrl: "img/undraw_drag_5i9w.svg",
     description: (
       <>
         Bitgrin is using Docusaurus was designed from the ground up to be easily
@@ -26,7 +26,7 @@ const features = [
   },
   {
     title: <>Find everything that you need</>,
-    imageUrl: "img/undraw_docusaurus_tree.svg",
+    imageUrl: "img/undraw_searching_p5ux.svg",
     description: (
       <>
         Extensive Bitgrin documents have everything that you possibly need, to
@@ -37,7 +37,7 @@ const features = [
   },
   {
     title: <>Everything open source</>,
-    imageUrl: "img/undraw_docusaurus_react.svg",
+    imageUrl: "img/undraw_version_control_9bpv.svg",
     description: (
       <>
         You can check the source of everything and improve anything, we have a
@@ -65,7 +65,7 @@ function Home() {
                 "button button--outline button--secondary button--lg",
                 styles.getStarted
               )}
-              to={withBaseUrl("docs/docscontributing")}
+              to={withBaseUrl("docs/introduction")}
             >
               Check it out
             </Link>
